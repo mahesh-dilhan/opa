@@ -1,4 +1,4 @@
-(base) Maheshs-MacBook-Pro:app1 mahesh$ opa version
+```(base) Maheshs-MacBook-Pro:app1 mahesh$ opa version
 Version: 0.30.1
 Build Commit: 
 Build Timestamp: 
@@ -34,4 +34,4 @@ Rule 'likes' defined in package repl. Type 'show' to see rules.
 | "coffee" | ["alice","coffee"]     |
 +----------+------------------------+
 > 
-
+```
